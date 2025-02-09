@@ -1,0 +1,9 @@
+@import url('./normalize.css');
+@import url('./variables/fonts.css');
+@import url('./variables/pallete.css');
+
+
+body {
+  background-color: var(--color-black-400);
+  font-family: var(--font-roboto);
+}
